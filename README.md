@@ -16,6 +16,8 @@ This project aims to build an automated color sorting system specifically design
 1.  上层一个MG90舵机控制一个可180度旋转的带开孔转盘。此转盘负责物料的送入、定位到TCS34725颜色传感器下方进行检测，并将物体投放到下一层。
 2.  下层另一个MG90舵机控制一个可转动的滑道。根据传感器识别到的颜色，此滑道会将落下的物体导向相应的分拣盒。
 
+![image](https://github.com/SqyLt/Arduino-Uno-R3-Color-Sorter/blob/main/%E5%9B%BE%E7%89%87%201.png)
+
 ## 硬件清单 (Hardware List)
 
 **English:**
